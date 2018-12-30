@@ -1,7 +1,9 @@
 # Simple Stress Test Tool
 ## WARNING! Im not taking responsibility of breaking hardware by using this app!
 ### Like overheating without cooler etc.
-================
+
+
+
 ## Instructions how to start it for the first time:
 * Install nodejs, thats all!
 
