@@ -16,4 +16,5 @@
 
 *This app is stress tool for low-end PCs but by running run.bat multiple times you are able to stress even high-end PCs
 This app is not made to be cool 328348 lines of code super complicated, its made to be light weight and be cool and work*
+
 ~~*and and and*~~
